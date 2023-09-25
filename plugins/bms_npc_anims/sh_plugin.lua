@@ -1,0 +1,40 @@
+PLUGIN.name = "BMS NPC Animations"
+PLUGIN.author = "Larry"
+PLUGIN.description = ""
+
+ix.anim.bms_npc = {
+	normal = {
+		[ACT_MP_STAND_IDLE] = {ACT_IDLE, ACT_IDLE},
+		[ACT_MP_CROUCH_IDLE] = {ACT_IDLE, ACT_IDLE},
+		[ACT_MP_RUN] = {ACT_WALK, ACT_WALK},
+		[ACT_MP_CROUCHWALK] = {ACT_WALK, ACT_WALK},
+		[ACT_MP_WALK] = {ACT_WALK, ACT_WALK},
+		attack = ACT_RANGE_ATTACK1_LOW,
+	},
+	smg = {
+		[ACT_MP_STAND_IDLE] = {ACT_IDLE, ACT_IDLE},
+		[ACT_MP_CROUCH_IDLE] = {ACT_IDLE, ACT_IDLE},
+		[ACT_MP_RUN] = {ACT_WALK, ACT_WALK},
+		[ACT_MP_CROUCHWALK] = {ACT_WALK, ACT_WALK},
+		[ACT_MP_WALK] = {ACT_WALK, ACT_WALK},
+		attack = ACT_RANGE_ATTACK1_LOW,
+	},
+	physgun = { 
+		[ACT_MP_STAND_IDLE] = {ACT_IDLE, ACT_IDLE},
+		[ACT_MP_CROUCH_IDLE] = {ACT_IDLE, ACT_IDLE},
+		[ACT_MP_RUN] = {ACT_WALK, ACT_WALK},
+		[ACT_MP_CROUCHWALK] = {ACT_WALK, ACT_WALK},
+		[ACT_MP_WALK] = {ACT_WALK, ACT_WALK},
+		attack = ACT_RANGE_ATTACK1_LOW,
+	},
+	pistol = {
+		[ACT_MP_STAND_IDLE] = {ACT_IDLE, ACT_IDLE},
+		[ACT_MP_CROUCH_IDLE] = {ACT_IDLE, ACT_IDLE},
+		[ACT_MP_RUN] = {ACT_WALK, ACT_WALK},
+		[ACT_MP_CROUCHWALK] = {ACT_WALK, ACT_WALK},
+		[ACT_MP_WALK] = {ACT_WALK, ACT_WALK},
+		attack = ACT_RANGE_ATTACK1_LOW,
+	},
+}
+
+ix.anim.SetModelClass("", "bms_npc")

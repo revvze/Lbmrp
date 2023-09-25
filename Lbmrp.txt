@@ -1,0 +1,7 @@
+"Lbmrp"
+{
+	"base" 			"helix"
+	"title" 		"Larry's Black Mesa Roleplay"
+	"author" 		"Larry"
+	"menusystem"	"1"
+}
