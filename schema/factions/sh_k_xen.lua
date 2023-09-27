@@ -1,4 +1,4 @@
-FACTION.name = "Xen Life Form (Unfinished)"
+FACTION.name = "Xen Life Form (WIP)"
 FACTION.description = ""
 FACTION.color = Color(127, 0, 255)
 FACTION.isDefault = true
