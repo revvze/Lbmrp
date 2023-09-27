@@ -1,4 +1,4 @@
-FACTION.name = "Facility Security"
+FACTION.name = "Security Force"
 FACTION.description = ""
 FACTION.color = Color(0, 63, 255)
 FACTION.isDefault = true

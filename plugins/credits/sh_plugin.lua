@@ -20,19 +20,17 @@ Framework Used
 </font>
 
 <font=Font-Elements32>
-<color=255,0,0>Managers</color>
+<color=255,0,0>Project Manager</color>
 </font><font=Font-Elements24>
-Larry - Project Manager
-Sulfer - Community Manager
+Larry
 </font>
 
 <font=Font-Elements32>
 <color=127,0,255>Developers</color>
 </font><font=Font-Elements24>
-Larry - Lead Developer
 Sulfer - Developer
 Sulfer - Developer
-Riggs - Ex-Developer
+Riggs - UI Designer
 </font>
 
 <font=Font-Elements32>

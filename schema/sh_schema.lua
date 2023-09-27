@@ -73,6 +73,7 @@ player_manager.AddValidModel("Bio-Worker", "models/humans/pbmrp/scientist_cleans
 player_manager.AddValidHands("Bio-Worker", "models/humans/pbmrp/c_arms/c_hazmat_arms.mdl", 0, "00000000")
 
 player_manager.AddValidModel("Survey", "models/humans/pbmrp/extra/bms_hev.mdl")
+player_manager.AddValidModel("Survey", "models/paynamia/bms/gordon_survivor_player.mdl")
 player_manager.AddValidHands("Survey", "models/humans/pbmrp/c_arms/extra/c_arms_hev.mdl", 0, "00000000")
 
 player_manager.AddValidModel("Security", "models/humans/pbmrp/guard_pm.mdl")

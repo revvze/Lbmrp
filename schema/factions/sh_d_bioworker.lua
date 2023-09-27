@@ -4,7 +4,7 @@ FACTION.color = Color(127, 255, 159)
 FACTION.isDefault = true
 
 FACTION.models = {
-    "models/humans/pbmrp/scientist_cleansuit_pm.mdl",
+    "models/humans/pbmrp/scientist_pm.mdl",
 }
 
 FACTION.xp = 150

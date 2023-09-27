@@ -375,6 +375,7 @@ ix.anim.SetModelClass("models/humans/pbmrp/scientist_cleansuit_pm.mdl", "player"
 
 -- Survey Team
 ix.anim.SetModelClass("models/humans/pbmrp/extra/bms_hev.mdl", "player")
+ix.anim.SetModelClass("models/paynamia/bms/gordon_survivor_player.mdl", "player")
 
 -- Security
 ix.anim.SetModelClass("models/humans/pbmrp/guard_pm.mdl", "player")
